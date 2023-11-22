@@ -8,7 +8,7 @@
   
 </p>
 <p align="left">
-  🔬 I'm currently working on Data Science and Deep Learning
+  🔬 I'm a ML & AI Enthusiast
   <br>
   🌱 My keen interest lies in working with different type of data, apart from Data Analytics, I love to explore Machine Learning and Deep Learning Domain.
   <br>
